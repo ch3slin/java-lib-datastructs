@@ -3,7 +3,9 @@
 Java-lib-datastructs is a java library that contains some data structures with some functionality.
 
 ### Contains:
-- lists
+- LinkedLists
+  - Methods(add,get,clear,indexOf,size,contains)
+  - Working on remove,set
 - ???
 
 
